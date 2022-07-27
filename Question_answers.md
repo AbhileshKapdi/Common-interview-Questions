@@ -1,7 +1,8 @@
 # **Common interview question (for example 'content writer')**
 
 
-<b>Tell me something about yourself/ Introduce yourself?</b>
+
+<b>1. Tell me something about yourself/ Introduce yourself?</b>
 
 <p>This is one of the most common interview questions raised. This must be answered carefully and honestly. This is generally asked to know about you but not about your details.
 
@@ -13,7 +14,8 @@ This is the way you should cover the answer. If an interviewer asks you some fam
 
 
 
-<b>What are your strong and weak points?</b>
+
+<b>2. What are your strong and weak points?</b>
 
 <p>This question needs to be answered with proper attention as it’s quite a relevant question to convey a good impression from starting.
 
@@ -25,9 +27,11 @@ You can start this by quoting ‘ I have some areas of improvement like explorin
 
 
 
+
 <b></b>
 
 <p></p>
+
 
 
 
